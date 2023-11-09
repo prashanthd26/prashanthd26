@@ -12,3 +12,6 @@
 
 [Interactive Card](https://studio.code.org/projects/gamelab/obu6p5uFlzh8f7YIQveOQKP2frqsxySBXbRBvy-w9WM)
 >For this project, Zena, Mayank and I created a welcome home card with a dancing alien that changes colors, as well balloons and an UFO that are both controlled by the arrow keys.
+
+[Side Scroller](https://studio.code.org/projects/gamelab/1Hghqu0d0Zz9qREVODH2PdRutG2h4bdhiKJNE90LBvU)
+>For this project, Zena, Mayank and I each split up our code into separate parts, with each one of doing a bit and then consolidating it at the end. We creaked a remake of the dino game with 3 lives
