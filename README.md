@@ -23,7 +23,10 @@
 >For this project, I came up with a cool theme of space and added on to it, leaning into the retro vibe and having the 'static,' and I added multiple lives as well, where the player(spaceship) would reset itself.
 
 [Final Game](https://studio.code.org/projects/gamelab/8wAURYPB1TyzYQ0nbptwoMUHrWmBZjK15FswEbc_8cY)
->For this project, I had a lot of trial and error, and I anded up doing a lot of manipulatng of the photos to fit the window. One fun feature are the "covers" which give the backgrounds more of a 3D effect as the cart passes behind them but in front of the background.
+>For this project, I had a lot of trial and error, and I ended up doing a lot of manipulatng of the photos to fit the window. One fun feature are the "covers" which give the backgrounds more of a 3D effect as the cart passes behind them but in front of the background.
 
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=31cdeb1b-8641-45c4-acc6-e174757bb247)
->For this project, I had a lot of trial and error, and I anded up doing a lot of manipulatng of the photos to fit the window. One fun feature are the "covers" which give the backgrounds more of a 3D effect as the cart passes behind them but in front of the background.
+>For this project, I had a lot of trial and error, and I ended up with a fun setup with four animals and a label that switches between "mystery" and the animal name
+
+>[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=4c181f5e-14f8-4ca7-9cd8-98915f45d8df)
+>For this project, I spent a lot of time trying to format the buttons. Eventually, I learnt that I needed to change my strategy, and I was able to then fix my project. 
