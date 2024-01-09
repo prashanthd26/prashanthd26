@@ -30,3 +30,6 @@
 
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=4c181f5e-14f8-4ca7-9cd8-98915f45d8df)
 >For this project, I spent a lot of time trying to format the buttons. Eventually, I learnt that I needed to change my strategy, and I was able to then fix my project. 
+
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=b612d960-29f4-416e-8bcd-41a409882005)
+>For this project, read through the directions and then copied all of the code and then modified it to get rid of the parts i didn't need and added in some new blocks to make the game work according to the rubric requirements. 
