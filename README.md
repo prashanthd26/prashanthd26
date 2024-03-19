@@ -32,4 +32,11 @@
 >For this project, I spent a lot of time trying to format the buttons. Eventually, I learnt that I needed to change my strategy, and I was able to then fix my project. 
 
 [Food Chase](https://gallery.appinventor.mit.edu/?galleryid=b612d960-29f4-416e-8bcd-41a409882005)
->For this project, read through the directions and then copied all of the code and then modified it to get rid of the parts i didn't need and added in some new blocks to make the game work according to the rubric requirements. 
+>For this project, I read through the directions and then copied all of the code and then modified it to get rid of the parts i didn't need and added in some new blocks to make the game work according to the rubric requirements. 
+
+[Creative Task 1: Golden Gate Bridge](https://academy.cs.cmu.edu/sharing/chartreuseCamel3963)
+>For this project, I used a reference photo of the golden gate bridge and recreated it for the creative task
+
+[Creative Task 2: Fantasy City](https://academy.cs.cmu.edu/sharing/burlyWoodAlligator1831)
+>For this project, I worked on creating a fantasy city that reveals itself when clicked on
+
