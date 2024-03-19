@@ -3,7 +3,9 @@
 - 👋 Hi, I’m @prashanthd26
 - 👀 I’m interested in FRC
 - 🌱 I’m currently at school
-  
+
+<h2>Code.org</h2>	
+
 [robotFace](https://prashanthd26.github.io/robotFace/)
 >repo for robot face code
 
@@ -25,6 +27,8 @@
 [Final Game](https://studio.code.org/projects/gamelab/8wAURYPB1TyzYQ0nbptwoMUHrWmBZjK15FswEbc_8cY)
 >For this project, I had a lot of trial and error, and I ended up doing a lot of manipulatng of the photos to fit the window. One fun feature are the "covers" which give the backgrounds more of a 3D effect as the cart passes behind them but in front of the background.
 
+<h2>MIT App Inventor</h2>	
+
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=31cdeb1b-8641-45c4-acc6-e174757bb247)
 >For this project, I had a lot of trial and error, and I ended up with a fun setup with four animals and a label that switches between "mystery" and the animal name
 
@@ -33,6 +37,8 @@
 
 [Food Chase](https://gallery.appinventor.mit.edu/?galleryid=b612d960-29f4-416e-8bcd-41a409882005)
 >For this project, I read through the directions and then copied all of the code and then modified it to get rid of the parts i didn't need and added in some new blocks to make the game work according to the rubric requirements. 
+
+<h2>CMU CS Academy</h2>	
 
 [Creative Task 1: Golden Gate Bridge](https://academy.cs.cmu.edu/sharing/chartreuseCamel3963)
 >For this project, I used a reference photo of the golden gate bridge and recreated it for the creative task
