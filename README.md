@@ -48,7 +48,7 @@
 [Creative Task 2: Fantasy City](https://academy.cs.cmu.edu/sharing/burlyWoodAlligator1831)
 >For this project, I worked on creating a fantasy city that reveals itself when clicked on
 
-[Creative Task 3: Fantasy City](https://academy.cs.cmu.edu/sharing/springGreenCow4907)
+[Creative Task 3: Dandelion in the Wind](https://academy.cs.cmu.edu/sharing/springGreenCow4907)
 >For this project, I worked on creating an animation of a dandelion's seeds being blown away by the wind
 
 
