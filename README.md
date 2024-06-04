@@ -51,4 +51,8 @@
 [Creative Task 3: Dandelion in the Wind](https://academy.cs.cmu.edu/sharing/springGreenCow4907)
 >For this project, I worked on creating an animation of a dandelion's seeds being blown away by the wind
 
+[Creative Task 4: Dynamic Golden Gate Bridge](https://academy.cs.cmu.edu/sharing/seashellPuppy3163)
+>For this project, I referenced my unit 1 GGB project, and made it dynamic. I rebuilt the code to make it movement-friendly, and I fixed some aspects from the previous version to make the animaiton appear to depict the bridge in the sunset, darkening along with the sky and water. 
 
+[Creative Task 5: Map Navigation](https://academy.cs.cmu.edu/sharing/orchidZebra2687)
+>For this project, I created a game where the user has to navigate the terrain/map by moving the car to hit all three of the markers in order to win.
