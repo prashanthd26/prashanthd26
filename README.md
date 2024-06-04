@@ -34,6 +34,9 @@
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=31cdeb1b-8641-45c4-acc6-e174757bb247)
 >For this project, I had a lot of trial and error, and I ended up with a fun setup with four animals and a label that switches between "mystery" and the animal name
 
+[My Piano]( https://gallery.appinventor.mit.edu/?galleryid=092fcfbd-93cd-4418-a2bb-4b81f8afa9f1)
+>For this project, I built off of the instructions given for the piano app and make it look fancier and more like a real piano, with a more streamlines design.
+
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=4c181f5e-14f8-4ca7-9cd8-98915f45d8df)
 >For this project, I spent a lot of time trying to format the buttons. Eventually, I learnt that I needed to change my strategy, and I was able to then fix my project. 
 
